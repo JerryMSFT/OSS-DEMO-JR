@@ -3,7 +3,6 @@ import socket
 import sys
 import os
 
-# Jerry Add
 app = Flask(__name__)
 
 # Load configurations
