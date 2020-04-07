@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-To complete this tutorial you will need:
+To complete this tutorial you will need: tt
 
 1. [Git](https://git-scm.com/)
 2. [Azure CLI](https://docs.microsoft.com/cli/azure/get-started-with-azure-cli) or use [Azure Cloudshell](https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart)
